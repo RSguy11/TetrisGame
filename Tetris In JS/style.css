@@ -1,0 +1,19 @@
+.gridstyle {
+    display:flex;
+    flex-wrap:wrap;
+    width: 200px;
+    height: 400px;
+    background-color: gray;
+}
+
+.gridstyle div{
+    height: 20px;
+    width: 20px;
+    text-align:center;
+  
+
+}
+
+.shape {
+    background-color:blue;
+}
